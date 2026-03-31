@@ -18,7 +18,7 @@ Tijdens de eerste week wil ik erachter komen/observeren wie Ihab als persoon is 
 
 Voor de eerste week wil ik niet zo zeer een protoype maken maar juist erachter komen hoe Ihab zijn screenreader gebruikt door hem verschillende sites aan te wijzen/ of te vragen of hij bepaalde relevante sites wilt bezoeken en dan ga ik observeren hoe hij daarmee interacteert. Skipt hij gelijk naar bepaalde content? Wat is belangrijk? Naast het aandachtig meeluisteren naar de algemene vragen die al gesteld zullen worden door anderen kan ik specifiekere vragen stellen zoals:
 
-- Lijkt het je handig om aan het begin van je websitebezoek bepaalde content weg te halen zodat je er niet doorheen hoeft te tabben? Denk bijvoorbeeld aan een politiek nieuwsartikel of websites met langdradige informatie. 
+- Lijkt het je handig om aan het begin van je websitebezoek bepaalde content over te slaan zodat je er niet doorheen hoeft te tabben? Denk bijvoorbeeld aan een politiek nieuwsartikel of websites met langdradige informatie en veel kopjes.  
 - Zou een sneltoets overzicht handig zijn zodat je altijd elke sneltoets kan vinden? Gebruik je veel sneltoetsen? Vergeet je die soms?
 
 
