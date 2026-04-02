@@ -47,12 +47,12 @@ Gedurende de test vond ik dat de observatie niet zo zeer nodig was omdat hij elk
 - Stem staat standaard **heel snel** → meer tekst voorlezen is geen probleem
 - Engelse tekst wil hij met een **Engelse stem** voorgelezen krijgen
 
-Na wat onderzoek merk ik dat de nieuwsartikelen niet vaak echt lang zijn, dus mogelijk dat ik naar andere soort informatie moet kijken zoals wetenschappelijke onderzoeken om die toegankelijker te maken voor Ihab. Of toch weer breed maken voor elke website dat hij een inhoudsopgave maakt ervan en je zelf kan bepalen wat je wilt bekijken?
+Na wat onderzoek merk ik dat de nieuwsartikelen niet vaak echt lang zijn, dus mogelijk dat ik naar andere soort informatie moet kijken zoals wetenschappelijke onderzoeken om die toegankelijker te maken voor Ihab. Of toch weer breed maken voor elke website dat hij een inhoudsopgave maakt ervan en je zelf kan bepalen wat je wilt bekijken? Ook dit zou ik extra kunnen vragen tijdens de volgende gebruikertest, bij welke content naast lange nieuwsartikelen kan dit handig zijn?
 
 <img width="453" height="658" alt="Screenshot 2026-04-02 at 11 46 17" src="https://github.com/user-attachments/assets/79c86570-fb2c-4358-9e5f-1fdd9645e12b" />
 
 
-Voor het eerste echte prototype wil ik de functionaliteit testen, dus eerst op een voorbeeld pagina en niet als extensie. Dat het een lang artikel is met verschillende kopjes en je dan kan aanvinken welke kopjes je wilt lezen.
+Voor het eerste echte prototype wil ik de functionaliteit testen, dus eerst op een voorbeeld pagina en niet als extensie. Dat het een lang artikel is met verschillende kopjes en je dan kan aanvinken welke kopjes je wilt lezen. Dit ga ik met Ihab testen om te kijken of dit een fijne manier van gebruik is en zo niet, wat wel.
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
