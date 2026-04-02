@@ -24,7 +24,7 @@ Voor de eerste week wil ik niet zo zeer een protoype maken maar juist erachter k
 
 Op basis daarvan kan ik bezig met het eerste ontwerp, een extensie die deze voorkeuren kan toepassen. 
 
-# Gebruikerstest Ihab 1
+# Gebruikerstest Ihab 1 / voortgang
 ## Ihab gebruikerstest - relevante aantekeningen
 
 ---
@@ -49,8 +49,10 @@ Gedurende de test vond ik dat de observatie niet zo zeer nodig was omdat hij elk
 
 Na wat onderzoek merk ik dat de nieuwsartikelen niet vaak echt lang zijn, dus mogelijk dat ik naar andere soort informatie moet kijken zoals wetenschappelijke onderzoeken om die toegankelijker te maken voor Ihab. Of toch weer breed maken voor elke website dat hij een inhoudsopgave maakt ervan en je zelf kan bepalen wat je wilt bekijken?
 
-Voor het eerste echte prototype wil ik de functionaliteit testen. 
+<img width="453" height="658" alt="Screenshot 2026-04-02 at 11 46 17" src="https://github.com/user-attachments/assets/79c86570-fb2c-4358-9e5f-1fdd9645e12b" />
 
+
+Voor het eerste echte prototype wil ik de functionaliteit testen, dus eerst op een voorbeeld pagina en niet als extensie. Dat het een lang artikel is met verschillende kopjes en je dan kan aanvinken welke kopjes je wilt lezen.
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
