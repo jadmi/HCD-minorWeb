@@ -24,6 +24,29 @@ Voor de eerste week wil ik niet zo zeer een protoype maken maar juist erachter k
 
 Op basis daarvan kan ik bezig met het eerste ontwerp, een extensie die deze voorkeuren kan toepassen. 
 
+# Gebruikerstest Ihab 1
+## Ihab gebruikerstest - relevante aantekeningen
+
+---
+
+### Mijn concept: browserextensie waarmee je irrelevante content kan overslaan
+Gedurende de test vond ik dat de observatie niet zo zeer nodig was omdat hij elke site hetzelfde gebruikt met tabben, wel ging ik mijn concept voorstellen en vragen wat hij ervan vond. Gedurende de test heb ik ook besloten om het concept wat specifieker te maken van alle websites naar politieke nieuwsartikelen voor raakvlak met zijn studie. 
+
+**Reactie Ihab op het concept:**
+
+- Vond het een prima idee, handig voor lange artikelen met veel kopjes
+- Vooraf een soort table of contents met de koppen, zodat je kan bepalen wat je wilt skippen
+- Optie om focus ergens te starten? Content helemaal weghalen?
+- Ik noemde als voorbeeld Specifiek voor scangedrag bij lange nieuwsartikelen met veel kopjes - focussen hierop?
+---
+
+### Ihab als gebruiker:
+
+- Gebruikt **NVDA maar ook JAWS**, browser is **Brave (Tor)**
+- Primaire input: **QWERTY-toetsenbord**
+- Stem staat standaard **heel snel** → meer tekst voorlezen is geen probleem
+- Engelse tekst wil hij met een **Engelse stem** voorgelezen krijgen
+
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
