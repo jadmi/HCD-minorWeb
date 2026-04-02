@@ -47,6 +47,10 @@ Gedurende de test vond ik dat de observatie niet zo zeer nodig was omdat hij elk
 - Stem staat standaard **heel snel** → meer tekst voorlezen is geen probleem
 - Engelse tekst wil hij met een **Engelse stem** voorgelezen krijgen
 
+Na wat onderzoek merk ik dat de nieuwsartikelen niet vaak echt lang zijn, dus mogelijk dat ik naar andere soort informatie moet kijken zoals wetenschappelijke onderzoeken om die toegankelijker te maken voor Ihab. Of toch weer breed maken voor elke website dat hij een inhoudsopgave maakt ervan en je zelf kan bepalen wat je wilt bekijken?
+
+Voor het eerste echte prototype wil ik de functionaliteit testen. 
+
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
