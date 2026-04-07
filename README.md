@@ -54,5 +54,20 @@ Na wat onderzoek merk ik dat de nieuwsartikelen niet vaak echt lang zijn, dus mo
 
 Voor het eerste echte prototype wil ik de functionaliteit testen, dus eerst op een voorbeeld pagina en niet als extensie. Dat het een lang artikel is met verschillende kopjes en je dan kan aanvinken welke kopjes je wilt lezen. Dit ga ik met Ihab testen om te kijken of dit een fijne manier van gebruik is en zo niet, wat wel.
 
+# Voortgang week 1
+Ik ben goed op weg met mijn idee maar ik denk te ver vooruit alsin gelijk naar een oplossing toewerken, de interpretatie ervan staat open. De focus ligt op het iteratie proces en niet de techniek dus ik hoef niet meteen een extensie uit te werken voor de test van volgende week. Deel je idee in kleine functionaliteiten op en test deze, wat vind Ihab fijn en wat niet. 
+
+Daarom ga ik voor de eerste test specifiek de manier van navigatie testen, ik ben van plan verschillende navigatie manieren voor te leggen/nabootsen en daarna vragen welke hij het fijnst vindt. Daarnaast wil ik vragen bij wat voor soort content mijn idee het beste past, meer dan alleen nieuwsartikelen.
+
+
+## Prototype voor week 2
+<img width="700" height="1154" alt="image" src="https://github.com/user-attachments/assets/7145c282-72be-420d-a279-738397b4e61c" />
+
+Ik heb drie verschillende navigatie manieren gemaakt om content over te slaan voor Ihab om te testen. Daarnaast heb ik nvda gedownload om de basis zelf te kunnen testen en geen onnodige fouten maak met de code.
+
+<img width="496" height="338" alt="image" src="https://github.com/user-attachments/assets/be205834-0f39-4850-b4e4-4c9f03d9f067" />
+
+# Test week 2
+
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
