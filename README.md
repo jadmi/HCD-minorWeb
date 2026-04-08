@@ -74,20 +74,25 @@ Ook heb ik gemerkt dat ik niet snel nieuwsartikelen vind die echt lang zijn, dus
 Observeren, welke navigatie is het fijnst? Beschrijvende kopjes? Andere tekstenn/websites waar het van pas kan komen voor jou?
 
 ## Technisch
-	∙	Snelheid screenreader: 39
-	∙	Gebruikt Be My Eyes voor het beschrijven van foto’s
-	∙	Stemvoorkeur: Alice (Engels) / Xander (Nederlands)
+
+• Snelheid screenreader: 39
+• Gebruikt Be My Eyes voor het beschrijven van foto’s
+• Stemvoorkeur: Alice (Engels) / Xander (Nederlands)
+
 ## Navigatie
-	∙	Navigatiemethode 2 preferred
-	∙	Volgorde voorkeur: methode 2 → 3 → 1 (mogelijk 1 en 2 combineren)?
 
-	∙	Table of contents (methode 2) is het prettigst
-	∙	Elk kopje beschrijven in 1 zin, beschrijvender
+• Navigatiemethode 2 preferred
+• Volgorde voorkeur: methode 2 → 3 → 1 (mogelijk 1 en 2 combineren?)
 
-	∙	Nuttig bij wetenschappelijke artikelen — geen onnodige info doorspitten
-	∙	PDF’s zijn een belangrijk use case​​​​​​​​​​​​​​​
-    .   Een samenvatting van de pagina zou ook handig zijn (zeker bij pdf's) zodat hij niet de hele pagina door hoeft te gaan.
-    .   Ruimte voor add nonsense --> grappende teksten (saaie onderzoekmethodes worden eerst besproken)
+• Table of contents (methode 2) is het prettigst
+• Elk kopje beschrijven in 1 zin, beschrijvender
+
+• Nuttig bij wetenschappelijke artikelen — geen onnodige info doorspitten
+• PDF’s zijn een belangrijk use case
+
+• Een samenvatting van de pagina zou ook handig zijn (zeker bij pdf's) zodat hij niet de hele pagina door hoeft te gaan
+• Ruimte voor add nonsense → grappende teksten (saaie onderzoekmethodes worden eerst besproken)
+
 
 
 
