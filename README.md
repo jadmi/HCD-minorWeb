@@ -67,7 +67,29 @@ Ik heb drie verschillende navigatie manieren gemaakt om content over te slaan vo
 
 <img width="496" height="338" alt="image" src="https://github.com/user-attachments/assets/be205834-0f39-4850-b4e4-4c9f03d9f067" />
 
-# Test week 2
+Tijdens het onderzoek voor de tweede test heb ik gemerkt dat de kopjes in een artikel op zichzelf niet beschrijvend genoeg zijn. Maar dit is een probleem waar ik een andere keer op ga focussen, voor nu richt ik me op de manier van navigatie die voor Ihab het beste werkt. Daarom heb ik ook de kopjes voor het prototype ietwat beschrijvender gemaakt.
+Ook heb ik gemerkt dat ik niet snel nieuwsartikelen vind die echt lang zijn, dus ga ik vragen naar andere vormen van teksten/websites waarbij mijn toepassing handig kan zijn.
+
+# Test week 2 
+Observeren, welke navigatie is het fijnst? Beschrijvende kopjes? Andere tekstenn/websites waar het van pas kan komen voor jou?
+
+## Technisch
+	∙	Snelheid screenreader: 39
+	∙	Gebruikt Be My Eyes voor het beschrijven van foto’s
+	∙	Stemvoorkeur: Alice (Engels) / Xander (Nederlands)
+## Navigatie
+	∙	Navigatiemethode 2 preferred
+	∙	Volgorde voorkeur: methode 2 → 3 → 1 (mogelijk 1 en 2 combineren)?
+
+	∙	Table of contents (methode 2) is het prettigst
+	∙	Elk kopje beschrijven in 1 zin, beschrijvender
+
+	∙	Nuttig bij wetenschappelijke artikelen — geen onnodige info doorspitten
+	∙	PDF’s zijn een belangrijk use case​​​​​​​​​​​​​​​
+    .   Een samenvatting van de pagina zou ook handig zijn (zeker bij pdf's) zodat hij niet de hele pagina door hoeft te gaan.
+    .   Ruimte voor add nonsense --> grappende teksten (saaie onderzoekmethodes worden eerst besproken)
+
+
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
