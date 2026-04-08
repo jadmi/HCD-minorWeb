@@ -11,7 +11,7 @@ Ook heb ik nog onderzoek gedaan naar hoe je een extensie kan maken en een simpel
 <img width="170" height="192" alt="Screenshot 2026-03-30 at 15 29 18" src="https://github.com/user-attachments/assets/cbcb40b9-10a7-47ec-a693-c9e030464e1b" />
 
 # Daily checkout dag 1 week 1
-Vandaag heb ik me verdiept in hoe ik het wil gaan aanpakken, welk onderwerp ik me mee bezig wil houden en een testplan gemaakt. Tot slot heb ik een extensie gemaakt om te testen hoe het werkt. 
+Vandaag heb ik me verdiept in hoe ik het wil gaan aanpakken, welk onderwerp ik me mee bezig wil houden en een testplan gemaakt. Tot slot heb ik een extensie gemaakt om te testen hoe het maken van een extensie uberhaupt werkt. 
 
 ## Testplan week 1
 Tijdens de eerste week wil ik erachter komen/observeren wie Ihab als persoon is en hoe Ihab zijn screenreader gebruikt. Op basis van de interesses kan ik meer richting geven aan mijn ontwerp en kan ik een kant op die past bij Ihab. Daarbij wil ik van alles te weten te komen over het gebruik van de screenreader, hoe werkt Ihab ermee? Wat werkt handig, wat werkt minder handig? Waar komt de screenreader misschien tekort of wat kan beter? Welke voorkeuren heeft hij voor het gebruik van zijn screenreader? Gebruik sneltoetsen? 
@@ -51,13 +51,15 @@ Na wat onderzoek merk ik dat de nieuwsartikelen niet vaak echt lang zijn, dus mo
 
 <img width="453" height="658" alt="Screenshot 2026-04-02 at 11 46 17" src="https://github.com/user-attachments/assets/79c86570-fb2c-4358-9e5f-1fdd9645e12b" />
 
+# Checkout dag 2
+Natuurlijk ben ik de dag begonnen met de weekly geek waarna ik de eerste test met Ihab heb uitgevoerd. Daarna ben ik bezig geweest met het verwerken van de testresultaten en op basis daarvan aan de slag gegaan met het eerste prototype zoals bovenstaand te zien is. Ik heb mijn eerste idee uitgewerkt in figma maar ga deze nog omzetten naar een gecodeerd prototype voor Ihab.
 
 Voor het eerste echte prototype wil ik de functionaliteit testen, dus eerst op een voorbeeld pagina en niet als extensie. Dat het een lang artikel is met verschillende kopjes en je dan kan aanvinken welke kopjes je wilt lezen. Dit ga ik met Ihab testen om te kijken of dit een fijne manier van gebruik is en zo niet, wat wel.
 
 # Voortgang week 1
 Ik ben goed op weg met mijn idee maar ik denk te ver vooruit alsin gelijk naar een oplossing toewerken, de interpretatie ervan staat open. De focus ligt op het iteratie proces en niet de techniek dus ik hoef niet meteen een extensie uit te werken voor de test van volgende week. Deel je idee in kleine functionaliteiten op en test deze, wat vind Ihab fijn en wat niet. 
 
-Daarom ga ik voor de eerste test specifiek de manier van navigatie testen, ik ben van plan verschillende navigatie manieren voor te leggen/nabootsen en daarna vragen welke hij het fijnst vindt. Daarnaast wil ik vragen bij wat voor soort content mijn idee het beste past, meer dan alleen nieuwsartikelen.
+Daarom ga ik voor de eerste test specifiek de manier van navigatie testen, ik ben nu van plan juist verschillende navigatie manieren voor te leggen/nabootsen en daarna vragen welke hij het fijnst vindt. Daarnaast wil ik vragen bij wat voor soort content mijn idee het beste past, meer dan alleen nieuwsartikelen.
 
 
 ## Prototype voor week 2
@@ -93,8 +95,10 @@ Observeren, welke navigatie is het fijnst? Beschrijvende kopjes? Andere tekstenn
 • Een samenvatting van de pagina zou ook handig zijn (zeker bij pdf's) zodat hij niet de hele pagina door hoeft te gaan
 • Ruimte voor add nonsense → grappende teksten (saaie onderzoekmethodes worden eerst besproken)
 
+Voor de volgende test wil ik de tweede navigatie manier (table of contents) verder uitwerken met beschrijvende kopjes en mogelijk een "ai samenvatting" alleen weet ik niet in hoeverre ik dit zou kunnen toepassen op pdf's. Daarom ga ik nog opzoek naar een goed voorbeeld van een lange tekst voor de volgende iteratie. 
 
-
+## Checkout
+Ik begon de dag weer met de weekly geek en daarna de gebruikerstest, vervolgens heb ik nog de aantekeningen hiervan verwerkt en een plan opgesteld wat ik voor de volgende test wil gaan doen. 
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
