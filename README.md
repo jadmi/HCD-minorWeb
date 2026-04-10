@@ -97,8 +97,12 @@ Observeren, welke navigatie is het fijnst? Beschrijvende kopjes? Andere tekstenn
 
 Voor de volgende test wil ik de tweede navigatie manier (table of contents) verder uitwerken met beschrijvende kopjes en mogelijk een "ai samenvatting" alleen weet ik niet in hoeverre ik dit zou kunnen toepassen op pdf's. Daarom ga ik nog opzoek naar een goed voorbeeld van een lange tekst voor de volgende iteratie. 
 
-## Checkout
-Ik begon de dag weer met de weekly geek en daarna de gebruikerstest, vervolgens heb ik nog de aantekeningen hiervan verwerkt en een plan opgesteld wat ik voor de volgende test wil gaan doen. 
+## Checkout / Voortgang
+Ik begon de dag weer met de weekly geek en daarna de gebruikerstest, vervolgens heb ik nog de aantekeningen hiervan verwerkt, een plan opgesteld wat ik voor de volgende test wil gaan doen en ene begin voor het volgende prototype.
+
+<img width="868" height="578" alt="Screenshot 2026-04-10 at 10 54 08" src="https://github.com/user-attachments/assets/0d457e04-658b-4a6f-9c98-8b64dbcee2f5" />
+
+
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
