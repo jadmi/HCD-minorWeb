@@ -83,13 +83,13 @@ Observeren, welke navigatie is het fijnst? Beschrijvende kopjes? Andere tekstenn
 
 ## Navigatie
 
-• Navigatiemethode 2 preferred
+• Navigatiemethode 2 voorkeur
 • Volgorde voorkeur: methode 2 → 3 → 1 (mogelijk 1 en 2 combineren?)
 
 • Table of contents (methode 2) is het prettigst
 • Elk kopje beschrijven in 1 zin, beschrijvender
 
-• Nuttig bij wetenschappelijke artikelen — geen onnodige info doorspitten
+• Nuttig bij wetenschappelijke artikelen, dan hoeft hij geen onnodige info door te spitten
 • PDF’s zijn een belangrijk use case
 
 • Een samenvatting van de pagina zou ook handig zijn (zeker bij pdf's) zodat hij niet de hele pagina door hoeft te gaan
