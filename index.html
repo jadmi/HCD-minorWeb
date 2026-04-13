@@ -6,196 +6,72 @@
     <title>Grip op migratie</title>
     <link rel="stylesheet" href="style.css" />
   </head>
-
+  <header>
+    <img
+      src="pdf.png"
+      alt="pdf cover van het centraal economisch plan 2026 voor het idee"
+    />
+  </header>
   <body>
-    <h1>
-      Op deze pagina heb ik drie verschillende navigatie manieren gezet om door
-      content heen te gaan, nu is het aan jou om ze uit te testen.
-    </h1>
-    <!-- AANPAK 1 — Checkboxes vooraf -->
-    <section>
+    <nav aria-label="Inhoudsopgave Centraal Economisch Plan 2026">
       <h2>
-        Test hieronder navigatie 1. Hierbij is het idee dat je ervoor kan kiezen
-        om bepaalde onderdelen van het nieuwsartikel over te slaan zodat het
-        niet opgelezen wordt.
+        Centraal Economisch Plan 2026: Kies waar je wilt beginnen (ingekort voor
+        prototype)
       </h2>
-      <fieldset>
-        <legend>Welke onderdelen wil je overslaan?</legend>
-        <div>
-          <input type="checkbox" id="skip-intro" name="skip-intro" />
-          <label for="skip-intro">Sla de introductie over</label>
-        </div>
-        <div>
-          <input type="checkbox" id="skip-eu-pact" name="skip-eu-pact" />
-          <label for="skip-eu-pact"
-            >Sla "10 jaar praten over EU-migratiepact" over</label
-          >
-        </div>
-        <div>
-          <input type="checkbox" id="skip-strengste" name="skip-strengste" />
-          <label for="skip-strengste"
-            >Sla "'Strengste asielbeleid ooit'" over</label
-          >
-        </div>
-        <div>
-          <input type="checkbox" id="skip-spreiding" name="skip-spreiding" />
-          <label for="skip-spreiding"
-            >Sla "Spreidingswet en toekomst" over</label
-          >
-        </div>
-      </fieldset>
-    </section>
-
-    <!-- AANPAK 2 — Table of contents met skip-links -->
-    <section>
-      <h2>
-        Test hieronder navigatie 2. Hierbij kan je zelf bepalen waar je focus
-        start binnen het artikel.
-      </h2>
-      <nav aria-label="Inhoudsopgave artikel">
-        <ol>
-          <li><a href="#section-intro">Start focus bij introductie</a></li>
-          <li>
-            <a href="#section-eu-pact"
-              >Start focus bij 10 jaar praten over EU-migratiepact</a
-            >
-          </li>
-          <li>
-            <a href="#section-strengste"
-              >Start focus bij 'Strengste asielbeleid ooit'</a
-            >
-          </li>
-          <li>
-            <a href="#section-spreiding"
-              >Start focus bij Spreidingswet en toekomst</a
-            >
-          </li>
-        </ol>
-      </nav>
-    </section>
-
-    <!-- AANPAK 3 — Per sectie een skip-knop -->
-    <section>
-      <h2>
-        Voor de derde navigatie manier staan de skip knoppen waarmee je de
-        content kan overslaan aan het begin van elk kopje.
-      </h2>
-    </section>
-
-    <article>
-      <header>
-        <h2>Hoe politiek Den Haag grip op migratie probeert te krijgen</h2>
-        <p class="meta">Nieuwsartikel</p>
-      </header>
-
-      <section id="section-intro" tabindex="-1">
-        <a href="#section-eu-pact">Sla introductie over</a>
-        <p>
-          "Ongeveer 900", "ongeveer 1000", "ongeveer 900". Elke maandag
-          publiceert het ministerie van Justitie en Veiligheid een nieuwsbericht
-          van één zin met de "asielinstroom" van de week ervoor. Die cijfers
-          moeten omlaag, vindt het kabinet, dat 'grip op migratie' wil.
-        </p>
-        <p>
-          Nederland kan zoveel asielzoekers niet aan, is de gedachte. De
-          zogenoemde asielketen zit verstopt, er is niet genoeg plek om mensen
-          te huisvesten en zorg en onderwijs staan onder druk, vindt het
-          kabinet. Daarom wordt gewerkt aan nieuwe regels in Europa en in
-          Nederland.
-        </p>
-        <p>
-          Deze week stemde de Tweede Kamer in met het Europese Asiel- en
-          Migratiepact, dat half juni moet ingaan. En over een kleine twee weken
-          behandelt de Eerste Kamer 'de asielwetten van Faber'. Daarnaast is er
-          de spreidingswet, die al geldt maar waar discussie over blijft.
-        </p>
-      </section>
-
-      <section
-        id="section-eu-pact"
-        aria-labelledby="heading-eu-pact"
-        tabindex="-1"
-      >
-        <a href="#section-strengste"
-          >Sla "10 jaar praten over EU-migratiepact" over</a
-        >
-        <h2 id="heading-eu-pact">10 jaar praten over EU-migratiepact</h2>
-        <p>
-          Het EU-pact werd aangenomen in de Tweede Kamer. De coalitie stemde
-          voor, terwijl er tegenstand was vanuit linkse partijen en enkele
-          rechtse groepen.
-        </p>
-        <p>
-          Kritiek komt van meerdere kanten: sommigen vinden dat er te veel macht
-          naar Europa gaat, terwijl anderen vinden dat de maatregelen juist te
-          streng zijn.
-        </p>
-        <p><strong>In het Europese migratiepact staat:</strong></p>
-        <ul>
-          <li>Kortere asielprocedures aan de buitengrens van de EU</li>
-          <li>Onderscheid tussen kansrijke en kansarme asielzoekers</li>
-          <li>
-            Kansarme asielzoekers wachten uitzetting af in (half) gesloten
-            centra
-          </li>
-          <li>Snelle terugkeer naar land van herkomst of veilig land</li>
-          <li>Mogelijkheid om procedures buiten de EU uit te voeren</li>
-        </ul>
-        <p>
-          Binnen de coalitie is er discussie, vooral over de terugkeerwet.
-          Sommige partijen willen deze verder bespreken voordat ze instemmen.
-        </p>
-      </section>
-
-      <section
-        id="section-strengste"
-        aria-labelledby="heading-strengste"
-        tabindex="-1"
-      >
-        <a href="#section-spreiding">Sla "'Strengste asielbeleid ooit'" over</a>
-        <h2 id="heading-strengste">'Strengste asielbeleid ooit'</h2>
-        <p>
-          Naast Europese regels werkt Nederland ook aan eigen asielwetten. Deze
-          moeten volgens eerdere plannen leiden tot het strengste beleid ooit.
-        </p>
-        <p>
-          <strong>Belangrijke onderdelen van de Nederlandse wetten:</strong>
-        </p>
-        <ul>
-          <li>Tweestatusstelsel voor verschillende soorten vluchtelingen</li>
-          <li>Verblijfsvergunning verkort van vijf naar drie jaar</li>
-          <li>Tijdelijke vergunningen worden elke drie jaar beoordeeld</li>
-          <li>Geen dwangsommen meer voor de IND</li>
-          <li>Gezinshereniging wordt moeilijker</li>
-          <li>Illegaliteit wordt strafbaar</li>
-        </ul>
-        <p>
-          Er is veel kritiek op deze plannen, onder andere vanwege
-          uitvoerbaarheid en juridische gevolgen. De Eerste Kamer moet nog
-          beslissen.
-        </p>
-      </section>
-
-      <section
-        id="section-spreiding"
-        aria-labelledby="heading-spreiding"
-        tabindex="-1"
-      >
-        <h2 id="heading-spreiding">Spreidingswet en toekomst</h2>
-        <p>
-          De spreidingswet moet zorgen voor een betere verdeling van
-          asielzoekers over gemeenten, maar zorgt lokaal voor weerstand.
-        </p>
-        <p>
-          Het kabinet wil de wet uiteindelijk overbodig maken door de instroom
-          te verlagen. Of dat lukt, blijft onzeker.
-        </p>
-        <p>
-          Hoeveel de instroom daadwerkelijk zal dalen, is moeilijk te
-          voorspellen. Dat hangt sterk af van internationale ontwikkelingen en
-          conflicten.
-        </p>
-      </section>
-    </article>
+      <ol>
+        <li>
+          <a href="#section-kernpunten">Kernpunten</a>
+          <p>
+            Een beknopt overzicht van de belangrijkste conclusies: gematigde
+            economische groei, koopkrachtontwikkeling en verslechtering van het
+            overheidssaldo.
+          </p>
+        </li>
+        <li>
+          <a href="#section-macro">Macro-economisch beeld</a>
+          <p>
+            Hoe de Nederlandse en wereldeconomie zich in 2025 ontwikkelden en
+            wat de verwachtingen zijn voor 2026 en 2027, inclusief de invloed
+            van geopolitieke onzekerheid.
+          </p>
+        </li>
+        <li>
+          <a href="#section-arbeidsmarkt">Arbeidsmarkt</a>
+          <p>
+            De krapte op de arbeidsmarkt neemt af, het aantal vacatures daalt en
+            de werkloosheid stijgt licht naar 4,3% in 2027.
+          </p>
+        </li>
+        <li>
+          <a href="#section-overheidsfinancien">Overheidsfinanciën</a>
+          <p>
+            Het overheidstekort loopt op door hogere uitgaven aan defensie, zorg
+            en sociale zekerheid, terwijl de lasten ook toenemen maar minder
+            snel.
+          </p>
+        </li>
+        <li>
+          <a href="#section-koopkracht">Koopkracht en armoede</a>
+          <p>
+            De koopkracht stijgt in 2026 met 1,4% maar blijft in 2027 gelijk
+            door lastenverzwaringen; armoede stabiliseert rond 2,5%.
+          </p>
+        </li>
+      </ol>
+    </nav>
+    <h2>Een samenvatting van het CEP 2026 die niet zo saai is</h2>
+    <p>
+      Nederland doet het acceptabel, niet geweldig, maar ook niet slecht zoals
+      je zou denken. De economie groeit een beetje, de lonen stijgen, en de
+      meeste mensen houden iets meer over dit jaar. Maar volgend jaar pakt de
+      overheid dat natuurlijk weer deels terug via belastingen. De overheid zelf
+      geeft flink meer uit dan binnenkomt, vooral aan defensie omdat de
+      wereldmachten zich niet kunnen gedragen. Europa heeft ons al een briefje
+      gestuurd dat we alert moeten blijven. Nederlanders zijn mogelijk luier
+      geworden, voor het eerst in jaren zijn er meer werklozen dan vacatures. De
+      energieprijzen kunnen nog een ongelukkige verrassing worden als de oorlog
+      in het Midden-Oosten verder escaleert. Kortom: het gaat wel, maar er zijn
+      genoeg dingen om je zorgen over te maken zoals elk jaar.
+    </p>
   </body>
 </html>
