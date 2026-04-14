@@ -72,8 +72,8 @@ Ik heb drie verschillende navigatie manieren gemaakt om content over te slaan vo
 Tijdens het onderzoek voor de tweede test heb ik gemerkt dat de kopjes in een artikel op zichzelf niet beschrijvend genoeg zijn. Maar dit is een probleem waar ik een andere keer op ga focussen, voor nu richt ik me op de manier van navigatie die voor Ihab het beste werkt. Daarom heb ik ook de kopjes voor het prototype ietwat beschrijvender gemaakt.
 Ook heb ik gemerkt dat ik niet snel nieuwsartikelen vind die echt lang zijn, dus ga ik vragen naar andere vormen van teksten/websites waarbij mijn toepassing handig kan zijn.
 
-# Test week 2 
-Observeren, welke navigatie is het fijnst? Beschrijvende kopjes? Andere tekstenn/websites waar het van pas kan komen voor jou?
+# Test week 2 aantekeningen
+Observeren, welke navigatie is het fijnst? Heb je behoefte aan beschrijvende kopjes? Welke andere teskten/websites kan het van pas kan komen voor jou?
 
 ## Technisch
 
@@ -115,7 +115,7 @@ Voor week 3 heb ik alle feedback toegepast van de week 2 test:
 
  <img width="749" height="822" alt="Screenshot 2026-04-14 at 09 50 58" src="https://github.com/user-attachments/assets/8620a428-b40b-43a5-b74e-bac6872c2d35" />
 
-# Test week 3
+# Test week 3 aantekeningen
 Observeren, vragen:
 - Wat vind je algemeen? Vind je dit fijn werken? Of zou je nog wat aanpassen?
 - Moet de inhoudsopgave uitgebreider?
