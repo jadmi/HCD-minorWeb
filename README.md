@@ -97,12 +97,38 @@ Observeren, welke navigatie is het fijnst? Beschrijvende kopjes? Andere tekstenn
 
 Voor de volgende test wil ik de tweede navigatie manier (table of contents) verder uitwerken met beschrijvende kopjes en mogelijk een "ai samenvatting" alleen weet ik niet in hoeverre ik dit zou kunnen toepassen op pdf's. Daarom ga ik nog opzoek naar een goed voorbeeld van een lange tekst voor de volgende iteratie. 
 
-## Checkout / Voortgang
+# Voortgang/checkout
 Ik begon de dag weer met de weekly geek en daarna de gebruikerstest, vervolgens heb ik nog de aantekeningen hiervan verwerkt, een plan opgesteld wat ik voor de volgende test wil gaan doen en ene begin voor het volgende prototype.
 
 <img width="868" height="578" alt="Screenshot 2026-04-10 at 10 54 08" src="https://github.com/user-attachments/assets/0d457e04-658b-4a6f-9c98-8b64dbcee2f5" />
+
+## Feedback
+Goed op weg, test het met een relevanter stuk tekst - economisch onderzoek pdf.
+
+## Prototype voor week 3
+Voor week 3 heb ik alle feedback toegepast van de week 2 test:
+- Beschrijvende kopjes voor meer context
+- Samenvatting onder de inhoudsopgave ---> Add nonsense, op een grappende manier geschreven
+- Prototype nagemaakt voor een relevant pdf document --> alsof het voor de Centraal Economisch Plan 2026 pdf is gemaakt. Ik heb de inhoudsopgave iets ingekort en alleen de kern erin gelaten omdat dat het punt overbrengt. Dit keer ook geen extra tekst toegevoegd van het bestand zelf aangezien dat niet relevant is voor de test en vorige keer Ihab (vanzelfsprekend) door ging met de content van het nieuwsartikel wat niet relevant was dus moest ik hem onderbreken. 
+
+<img width="302" height="433" alt="Screenshot 2026-04-14 at 09 50 13" src="https://github.com/user-attachments/assets/a1120060-c32f-4e5d-8387-d066a03bfbb0" /> 
+
+ <img width="749" height="822" alt="Screenshot 2026-04-14 at 09 50 58" src="https://github.com/user-attachments/assets/8620a428-b40b-43a5-b74e-bac6872c2d35" />
+
+# Test week 3
+Observeren, vragen:
+- Wat vind je algemeen? Vind je dit fijn werken? Of zou je nog wat aanpassen?
+- Moet de inhoudsopgave uitgebreider?
+- Moet de samenvatting uitgebreider of juist korter?
+- Mis je nog iets? Bijvoorbeeld nog een functionaliteit die je kan helpen 
+- Zou je per kopje de geschatte leestijd willen zien?
+- Stel dit was een uitgewerkte extensie zou je dan twee verschillende shortcuts willen voor aan en uit zetten? Of nog andere shortcuts, bijvoorbeeld meteen naar de samenvatting skippen
+
 
 
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+https://nos.nl/artikel/2609164-hoe-politiek-den-haag-grip-op-migratie-probeert-te-krijgen
+https://www.cpb.nl/raming/centraal-economisch-plan-cep-2026
