@@ -130,6 +130,9 @@ Observeren, vragen:
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
+
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+
 https://nos.nl/artikel/2609164-hoe-politiek-den-haag-grip-op-migratie-probeert-te-krijgen
+
 https://www.cpb.nl/raming/centraal-economisch-plan-cep-2026
