@@ -122,7 +122,7 @@ Observeren, vragen:
 - Moet de samenvatting uitgebreider of juist korter?
 - Mis je nog iets? Bijvoorbeeld nog een functionaliteit die je kan helpen 
 - Zou je per kopje de geschatte leestijd willen zien?
-- Stel dit was een uitgewerkte extensie zou je dan twee verschillende shortcuts willen voor aan en uit zetten? Of nog andere shortcuts, bijvoorbeeld meteen naar de samenvatting skippen
+- Stel dit was een uitgewerkte extensie zou je dan twee verschillende shortcuts willen voor aan en uit zetten? Of nog andere shortcuts, bijvoorbeeld meteen naar de samenvatting kunnen skippen.
 
 
 
