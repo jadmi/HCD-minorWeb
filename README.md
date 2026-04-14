@@ -109,7 +109,8 @@ Goed op weg, test het met een relevanter stuk tekst - economisch onderzoek pdf.
 Voor week 3 heb ik alle feedback toegepast van de week 2 test:
 - Beschrijvende kopjes voor meer context
 - Samenvatting onder de inhoudsopgave ---> Add nonsense, op een grappende manier geschreven
-- Prototype nagemaakt voor een relevant pdf document --> alsof het voor de Centraal Economisch Plan 2026 pdf is gemaakt. Ik heb de inhoudsopgave iets ingekort en alleen de kern erin gelaten omdat dat het punt overbrengt. Dit keer ook geen extra tekst toegevoegd van het bestand zelf aangezien dat niet relevant is voor de test en vorige keer Ihab (vanzelfsprekend) door ging met de content van het nieuwsartikel wat niet relevant was dus moest ik hem onderbreken. 
+- Prototype nagemaakt voor een relevant pdf document --> alsof het voor de Centraal Economisch Plan 2026 pdf is gemaakt. Ik heb de inhoudsopgave iets ingekort en alleen de kern erin gelaten omdat dat het punt overbrengt. Dit keer ook geen extra tekst toegevoegd van het bestand zelf aangezien dat niet relevant is voor de test en vorige keer Ihab (vanzelfsprekend) door ging met de content van het nieuwsartikel wat niet relevant was dus moest ik hem onderbreken.
+- Visueel gezien niet speciaal, daar draait het ook niet om, maar juist de functionaliteit ervan.
 
 <img width="302" height="433" alt="Screenshot 2026-04-14 at 09 50 13" src="https://github.com/user-attachments/assets/a1120060-c32f-4e5d-8387-d066a03bfbb0" /> 
 
@@ -129,6 +130,9 @@ Observeren, vragen:
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
+
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+
 https://nos.nl/artikel/2609164-hoe-politiek-den-haag-grip-op-migratie-probeert-te-krijgen
+
 https://www.cpb.nl/raming/centraal-economisch-plan-cep-2026
