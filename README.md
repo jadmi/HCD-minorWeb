@@ -134,10 +134,10 @@ Observeren, vragen:
 Ihab was over het algemeen tevreden, lengte van de inhoudsopgave was prima.
 Lengte van de samenvatting is prima, leuke toevoeging van de informele toon ofwel "quirky" zoals Ihab het zelf noemde. Toevoeging hieraan, maak er knoppen van zodat je kan switchen tussen serieus en "quirky".
 
-Verder had hij niet echt toevoegingen dus vroeg ik of hij de toevoeging van leestijd per sectie handig zou vinden en of paginanummers hierbij aanvullen of overbodig zijn. Leestijd is gewenst (gebaseerd op zijn screenreader snelheid van 39), paginanummers overbodig.
+Verder had hij niet echt toevoegingen dus vroeg ik of hij de toevoeging van leestijd per sectie handig zou vinden en of paginanummers hierbij aanvullen of overbodig zijn. Leestijd is gewenst (gebaseerd op zijn screenreader snelheid van 39), paginanummers overbodig. Noemde nogmaals dat het voor PDF's handig is en dat het voor het idee handig was om de pdf tekst bijbehorend voor de kopjes er ook in te zetten. Ik ga dus de bijbehorende sectie er ook deels inzetten voor een complete ervaring. 
 
-Eventueel: sneltoetsen
-1 sneltoets voor aan/uit, direct naar kopjes, direct naar samenvatting. Zorg ervoor dat het niet dezelfde sneltoetsen als nvda zijn. Noemde nogmaals dat het voor PDF's handig is en dat het voor het idee handig was om de pdf tekst bijbehorend voor de kopjes er ook in te zetten. Ik ga dus de bijbehorende sectie er ook deels inzetten voor een complete ervaring. 
+Eventuele toevoeging: sneltoetsen
+1 sneltoets voor aan/uit (maar is geen extensie dus niet heel nuttig), zorg ervoor dat het niet dezelfde sneltoetsen als nvda zijn. 
 
 # Week 4
 
@@ -146,9 +146,11 @@ Eventueel: sneltoetsen
 - Feedback verwerkt, knoppen voor samenvatting modus serieus/onserieus, leestijd per kopje en totale leestijd
 - PDF tekst erin gezet wat hoort bij het kopje voor een completer idee van het prototype
 
+Verder heb ik op mijn windows computer zelf met NVDA verschillende dingen getest met betrekking tot de buttons om tot op zekere hoogte een goede ervaring te zorgen. Ik weet natuurlijk niet hoe Ihab zijn screenreader precies gebruikt maar uit de test zal blijken of hij het fijn vind. Op dit moment test ik met dingen zoals aria-pressed, aria-live, tabindex en focus. Zo had ik eerst met aria pressed er zonder dat ik het doorhad een toggle button van gemaakt terwijl het losse buttons zijn. In mijn geval is een radio button beter met de default selected value, zo niet hoor ik dat natuurlijk van Ihab.
 
+<img width="620" height="299" alt="image" src="https://github.com/user-attachments/assets/99fde8ab-9c19-43ca-b101-45d8f7ada9bd" />
 
-
+<img width="882" height="1036" alt="image" src="https://github.com/user-attachments/assets/da50e410-cf9e-4e0c-ac09-0350287df14c" />
 
 
 
