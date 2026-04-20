@@ -139,6 +139,28 @@ Verder had hij niet echt toevoegingen dus vroeg ik of hij de toevoeging van lees
 Eventueel: sneltoetsen
 1 sneltoets voor aan/uit, direct naar kopjes, direct naar samenvatting. Zorg ervoor dat het niet dezelfde sneltoetsen als nvda zijn. Noemde nogmaals dat het voor PDF's handig is en dat het voor het idee handig was om de pdf tekst bijbehorend voor de kopjes er ook in te zetten. Ik ga dus de bijbehorende sectie er ook deels inzetten voor een complete ervaring. 
 
+# Week 4
+
+## Prototype voor week 4
+- Sr only tekst toegevoegd voor introductie prototype
+- Feedback verwerkt, knoppen voor samenvatting modus serieus/onserieus, leestijd per kopje en totale leestijd
+- PDF tekst erin gezet wat hoort bij het kopje voor een completer idee van het prototype
+
+
+
+
+
+
+
+
+
+
+
+# Reflectie  
+study situation, ignore conventions, prioritise identity, add nonsense
+prioritise identity: Echt alleen maar gefocust op Ihab en geen aannames gedaan, elke keer getest. Zijn eigen woorden gebruikt zoals bij "quirky" samenvatting. Het prototype zo ingericht zoals hij aangaf het te willen hebben
+
+add nonsense: Het is grotendeels een praktisch prototype maar voor de test van week 3 had ik zelf wat "nonsense" toegevoegd, in plaats van een serieuze samenvatting een onserieuze grappende samenvatting. Ik vond het leuk om te zien/horen dat Ihab het een leuke toevoeging vond. Zo zie je dat er altijd wat ruimte is voor nonsense.
 
 ## Bronnen
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
@@ -148,3 +170,5 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
 https://nos.nl/artikel/2609164-hoe-politiek-den-haag-grip-op-migratie-probeert-te-krijgen
 
 https://www.cpb.nl/raming/centraal-economisch-plan-cep-2026
+
+https://webaim.org/techniques/css/invisiblecontent/
