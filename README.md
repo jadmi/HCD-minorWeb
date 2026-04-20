@@ -1,7 +1,9 @@
 # HCD-Minorweb
 
+# Week 1
+
 ## Ihab - de gebruiker waarvoor ik ontwikkel
-Ihab studeert economie en politicologie aan de UvA en is blind. Daarom gebruikt hij een screenreader om het web te navigeren. Het is voor mij de taak om een design te maken voor een relevant onderwerp met betrekking tot de screenreader.
+Ihab studeert economie en politicologie aan de UvA en is blind. Daarom gebruikt hij een screenreader om het web te navigeren. Het is aan mij de taak om een design te maken voor een relevant onderwerp met betrekking tot de screenreader speciaal voor Ihab.
 
 ## Eerste idee
 Voor mijn eerste idee wil ik gaan kijken naar het maken van een extensie om de voorkeuren van Ihab te ondersteunen, mogelijk een sneltoets library, mogelijk kunnen skippen naar de content die je zelf wilt. De voorkeuren baseer ik op de observaties die ik maak wanneer Ihab de sites doorgaat, dus daar ga ik achter komen. 
@@ -10,7 +12,7 @@ Ook heb ik nog onderzoek gedaan naar hoe je een extensie kan maken en een simpel
 <img width="406" height="207" alt="Screenshot 2026-03-30 at 15 28 23" src="https://github.com/user-attachments/assets/81e2879a-ccdf-4805-a362-d0d8320c98d8" />
 <img width="170" height="192" alt="Screenshot 2026-03-30 at 15 29 18" src="https://github.com/user-attachments/assets/cbcb40b9-10a7-47ec-a693-c9e030464e1b" />
 
-# Daily checkout dag 1 week 1
+## Checkout dag 1 week 1
 Vandaag heb ik me verdiept in hoe ik het wil gaan aanpakken, welk onderwerp ik me mee bezig wil houden en een testplan gemaakt. Tot slot heb ik een extensie gemaakt om te testen hoe het maken van een extensie uberhaupt werkt. 
 
 ## Testplan week 1
@@ -51,12 +53,14 @@ Na wat onderzoek merk ik dat de nieuwsartikelen niet vaak echt lang zijn, dus mo
 
 <img width="453" height="658" alt="Screenshot 2026-04-02 at 11 46 17" src="https://github.com/user-attachments/assets/79c86570-fb2c-4358-9e5f-1fdd9645e12b" />
 
-# Checkout dag 2
+## Checkout dag 2
 Natuurlijk ben ik de dag begonnen met de weekly geek waarna ik de eerste test met Ihab heb uitgevoerd. Daarna ben ik bezig geweest met het verwerken van de testresultaten en op basis daarvan aan de slag gegaan met het eerste prototype zoals bovenstaand te zien is. Ik heb mijn eerste idee uitgewerkt in figma maar ga deze nog omzetten naar een gecodeerd prototype voor Ihab.
 
 Voor het eerste echte prototype wil ik de functionaliteit testen, dus eerst op een voorbeeld pagina en niet als extensie. Dat het een lang artikel is met verschillende kopjes en je dan kan aanvinken welke kopjes je wilt lezen. Dit ga ik met Ihab testen om te kijken of dit een fijne manier van gebruik is en zo niet, wat wel.
 
-# Voortgang week 1
+# Week 2
+
+## Voortgang week 2
 Ik ben goed op weg met mijn idee maar ik denk te ver vooruit alsin gelijk naar een oplossing toewerken, de interpretatie ervan staat open. De focus ligt op het iteratie proces en niet de techniek dus ik hoef niet meteen een extensie uit te werken voor de test van volgende week. Deel je idee in kleine functionaliteiten op en test deze, wat vind Ihab fijn en wat niet. 
 
 Daarom ga ik voor de eerste test specifiek de manier van navigatie testen, ik ben nu van plan juist verschillende navigatie manieren voor te leggen/nabootsen en daarna vragen welke hij het fijnst vindt. Daarnaast wil ik vragen bij wat voor soort content mijn idee het beste past, meer dan alleen nieuwsartikelen.
@@ -72,7 +76,7 @@ Ik heb drie verschillende navigatie manieren gemaakt om content over te slaan vo
 Tijdens het onderzoek voor de tweede test heb ik gemerkt dat de kopjes in een artikel op zichzelf niet beschrijvend genoeg zijn. Maar dit is een probleem waar ik een andere keer op ga focussen, voor nu richt ik me op de manier van navigatie die voor Ihab het beste werkt. Daarom heb ik ook de kopjes voor het prototype ietwat beschrijvender gemaakt.
 Ook heb ik gemerkt dat ik niet snel nieuwsartikelen vind die echt lang zijn, dus ga ik vragen naar andere vormen van teksten/websites waarbij mijn toepassing handig kan zijn.
 
-# Test week 2 aantekeningen
+## Test week 2 aantekeningen
 Observeren, welke navigatie is het fijnst? Heb je behoefte aan beschrijvende kopjes? Welke andere teskten/websites kan het van pas kan komen voor jou?
 
 ## Technisch
@@ -97,13 +101,15 @@ Observeren, welke navigatie is het fijnst? Heb je behoefte aan beschrijvende kop
 
 Voor de volgende test wil ik de tweede navigatie manier (table of contents) verder uitwerken met beschrijvende kopjes en mogelijk een "ai samenvatting" alleen weet ik niet in hoeverre ik dit zou kunnen toepassen op pdf's. Daarom ga ik nog opzoek naar een goed voorbeeld van een lange tekst voor de volgende iteratie. 
 
-# Voortgang/checkout
+## Voortgang/checkout
 Ik begon de dag weer met de weekly geek en daarna de gebruikerstest, vervolgens heb ik nog de aantekeningen hiervan verwerkt, een plan opgesteld wat ik voor de volgende test wil gaan doen en ene begin voor het volgende prototype.
 
 <img width="868" height="578" alt="Screenshot 2026-04-10 at 10 54 08" src="https://github.com/user-attachments/assets/0d457e04-658b-4a6f-9c98-8b64dbcee2f5" />
 
 ## Feedback
 Goed op weg, test het met een relevanter stuk tekst - economisch onderzoek pdf.
+
+# Week 3
 
 ## Prototype voor week 3
 Voor week 3 heb ik alle feedback toegepast van de week 2 test:
@@ -116,7 +122,7 @@ Voor week 3 heb ik alle feedback toegepast van de week 2 test:
 
  <img width="749" height="822" alt="Screenshot 2026-04-14 at 09 50 58" src="https://github.com/user-attachments/assets/8620a428-b40b-43a5-b74e-bac6872c2d35" />
 
-# Test week 3 aantekeningen
+## Test week 3 aantekeningen
 Observeren, vragen:
 - Wat vind je algemeen? Vind je dit fijn werken? Of zou je nog wat aanpassen?
 - Moet de inhoudsopgave uitgebreider?
