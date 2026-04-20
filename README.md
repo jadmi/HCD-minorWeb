@@ -146,7 +146,7 @@ Eventuele toevoeging: sneltoetsen
 - Feedback verwerkt, knoppen voor samenvatting modus serieus/onserieus, leestijd per kopje en totale leestijd
 - PDF tekst erin gezet wat hoort bij het kopje voor een completer idee van het prototype
 
-Verder heb ik op mijn windows computer zelf met NVDA verschillende dingen getest met betrekking tot de buttons om tot op zekere hoogte een goede ervaring te zorgen. Ik weet natuurlijk niet hoe Ihab zijn screenreader precies gebruikt maar uit de test zal blijken of hij het fijn vind. Op dit moment test ik met dingen zoals aria-pressed, aria-live, tabindex en focus. Zo had ik eerst met aria pressed er zonder dat ik het doorhad een toggle button van gemaakt terwijl het losse buttons zijn. In mijn geval is een radio button beter met de default selected value, zo niet hoor ik dat natuurlijk van Ihab.
+Verder heb ik op mijn windows computer zelf met NVDA verschillende dingen getest met betrekking tot de buttons om tot op zekere hoogte een goede ervaring te zorgen. Ik weet natuurlijk niet hoe Ihab zijn screenreader precies gebruikt maar uit de test zal blijken of hij het fijn vind. Op dit moment test ik met dingen zoals aria-pressed, aria-live, tabindex en focus. Zo had ik eerst met aria pressed er zonder dat ik het doorhad een toggle button van gemaakt terwijl het losse buttons zijn. In mijn geval is een radio button beter met de default selected value volgens toegankelijkheid richtlijnen, zo niet hoor ik dat natuurlijk van Ihab.
 
 <img width="620" height="299" alt="image" src="https://github.com/user-attachments/assets/99fde8ab-9c19-43ca-b101-45d8f7ada9bd" />
 
