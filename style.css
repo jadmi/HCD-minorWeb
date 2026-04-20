@@ -26,15 +26,68 @@ section {
   margin-bottom: 2rem;
 }
 
-ul {
+ol {
   padding-left: 1.2rem;
+}
+
+ol li::marker {
+  font-size: 1.2rem;
 }
 
 li {
   margin-bottom: 0.5rem;
+  p {
+    font-size: 1.15rem;
+  }
+  a {
+    font-size: 1.2rem;
+  }
+}
+
+nav > p {
+  font-weight: bold;
+  font-size: 1.15rem;
 }
 
 img {
   width: 100%;
   border: 3px solid black;
+}
+
+div {
+  display: flex;
+  gap: 1em;
+  margin: 2em 0;
+}
+
+button {
+  padding: 1em;
+  font-size: 0.9rem;
+}
+
+.beginDocument {
+  margin-top: 30%;
+}
+
+.header {
+  color: rgb(205, 44, 109);
+}
+
+.header:first-of-type {
+  font-size: 1.8rem;
+}
+
+.sr-only {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+}
+
+.keuze {
+  margin-top: 2em;
 }
