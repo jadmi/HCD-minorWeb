@@ -128,7 +128,7 @@ Observeren, vragen:
 Ihab was over het algemeen tevreden, lengte van de inhoudsopgave was prima.
 Lengte van de samenvatting is prima, leuke toevoeging van de informele toon ofwel "quirky" zoals Ihab het zelf noemde. Toevoeging hieraan, maak er knoppen van zodat je kan switchen tussen serieus en "quirky".
 
-Verder had hij niet echt toevoegingen dus vroeg ik of hij de toevoeging van leestijd per sectie handig zou vinden en of paginanummers hierbij aanvullen of overbodig zijn. Leestijd is gewenst, paginanummers overbodig.
+Verder had hij niet echt toevoegingen dus vroeg ik of hij de toevoeging van leestijd per sectie handig zou vinden en of paginanummers hierbij aanvullen of overbodig zijn. Leestijd is gewenst (gebaseerd op zijn screenreader snelheid van 39), paginanummers overbodig.
 
 Eventueel: sneltoetsen
 1 sneltoets voor aan/uit, direct naar kopjes, direct naar samenvatting. Zorg ervoor dat het niet dezelfde sneltoetsen als nvda zijn. Noemde nogmaals dat het voor PDF's handig is dus ik ga de bijbehorende sectie er ook deels inzetten voor een complete ervaring. 
