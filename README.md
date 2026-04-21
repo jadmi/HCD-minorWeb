@@ -150,11 +150,15 @@ Verder heb ik op mijn windows computer zelf met NVDA verschillende dingen getest
 
 <img width="620" height="299" alt="image" src="https://github.com/user-attachments/assets/99fde8ab-9c19-43ca-b101-45d8f7ada9bd" />
 
-<img width="882" height="1036" alt="image" src="https://github.com/user-attachments/assets/da50e410-cf9e-4e0c-ac09-0350287df14c" />
+<img width="772" height="841" alt="Screenshot 2026-04-21 at 10 11 34" src="https://github.com/user-attachments/assets/595e3b54-28c6-48a7-8f33-eb325993e0c7" />
 
 
-
-
+## Test week 4 aantekeningen
+Observeren, vragen
+- Welke manier van keuze maken vind je fijner? Waarom?
+- Wat vind je in het algemeen?
+- Zijn er dingen die je mist of toch anders zou willen zien? Dit kan alles zijn.
+- Is dit prototype iets wat je zou gebruiken als het technisch werkte?
 
 
 
