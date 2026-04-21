@@ -91,3 +91,12 @@ button {
 .keuze {
   margin-top: 2em;
 }
+
+button:focus-visible {
+  outline: 3px solid rgb(205, 44, 109);
+  outline-offset: 2px;
+}
+
+p {
+  font-size: 1.1em;
+}
