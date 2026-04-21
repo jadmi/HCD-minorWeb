@@ -6,6 +6,7 @@
     <title>Grip op migratie</title>
     <link rel="stylesheet" href="style.css" />
     <script defer src="index.js"></script>
+    <script defer src="script.js"></script>
   </head>
   <header>
     <h2 class="sr-only">
@@ -79,7 +80,8 @@
     </nav>
     <h2 class="keuze">
       Maak een keuze tussen een serieuze (saaie) samenvatting van het CEP 2026
-      of de leukere quirky versie.
+      of de leukere quirky versie, ik heb twee varianten van de keuze gemaakt om
+      te testen.
     </h2>
     <div>
       <button class="serieus" aria-pressed="true">Serieuze samenvatting</button>
@@ -88,6 +90,35 @@
     </div>
 
     <p class="samenvatting" aria-live="polite">
+      De Nederlandse economie groeit gematigd door in 2026 en 2027, gedragen
+      door hogere huishoudconsumptie en overheidsbestedingen. De bbp-groei
+      bedraagt 1,4% in 2026 en 1,1% in 2027. De koopkracht stijgt in 2026 met
+      1,4% door reële loonstijging, maar blijft in 2027 nagenoeg gelijk doordat
+      lastenverzwaringen uit het coalitieakkoord de loongroei compenseren. Het
+      overheidstekort loopt op van -1,6% bbp in 2025 naar -2,6% in 2026, mede
+      door een eenmalige bijstorting van 8,2 miljard euro voor de
+      defensiepensioenen. Op de middellange termijn verslechtert het EMU-saldo
+      verder richting -3,1% bbp in 2034, waarmee Nederland de Europese
+      begrotingsnorm dreigt te overschrijden. De arbeidsmarkt koelt verder af:
+      voor het eerst sinds 2021 zijn er meer werklozen dan vacatures, en de
+      werkloosheid stijgt naar 4,3% in 2027. Geopolitieke onzekerheid, met name
+      door de oorlog in het Midden-Oosten, vormt het grootste neerwaartse risico
+      voor inflatie en economische groei.
+    </p>
+
+    <h2 class="keuze">Onderstaand de tweede variatie</h2>
+    <fieldset>
+      <legend>Kies een samenvatting</legend>
+      <label>
+        <input type="radio" name="samenvatting" value="serieus" checked />
+        Serieuze samenvatting
+      </label>
+      <label>
+        <input type="radio" name="samenvatting" value="quirky" />
+        Quirky samenvatting
+      </label>
+    </fieldset>
+    <p class="samenvatting2" aria-live="polite">
       De Nederlandse economie groeit gematigd door in 2026 en 2027, gedragen
       door hogere huishoudconsumptie en overheidsbestedingen. De bbp-groei
       bedraagt 1,4% in 2026 en 1,1% in 2027. De koopkracht stijgt in 2026 met
