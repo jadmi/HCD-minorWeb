@@ -158,7 +158,17 @@ Observeren, vragen
 - Welke manier van keuze maken vind je fijner? Waarom?
 - Wat vind je in het algemeen?
 - Zijn er dingen die je mist of toch anders zou willen zien? Dit kan alles zijn.
-- Is dit prototype iets wat je zou gebruiken als het technisch werkte?
+
+Observatie:
+i.p.v. 1.5 minuut anderhalf minuut. Leest fijner.
+Gaat soepel door mijn prototype heen alle linkjes, knoppen etc werken.
+
+- In eerste instantie zei hij dat beide fijn werkte, dus vroeg ik naar welke zijn voorkeur ging. De eerste keer gaf hij aan dat de eerste variatie beter was, maar na nog een keer testen de tweede.
+- Variatie 2 vind hij fijner werken omdat je makkelijk door de twee keuzes kan navigeren met de pijltjestoetsen.
+- Interface werkt goed, inhoudsopgave duidelijk, samenvatting duidelijk. Tevreden.
+
+## Voortgang 
+Ik heb de testresultaten verwerkt en mijn prototype daarop aangepast. 
 
 
 
