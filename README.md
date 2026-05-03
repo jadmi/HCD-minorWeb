@@ -169,12 +169,31 @@ Gaat soepel door mijn prototype heen alle linkjes, knoppen etc werken.
 
 ## Voortgang 
 Ik heb de testresultaten verwerkt en mijn prototype daarop aangepast. 
+- Tekst aangepast.
+- Tweede variatie erin en eerste variatie eruit.
+Stel dit project zou nog een aantal weken zijn, had ik zeker geprobeerd het echt technisch werkend te maken, waarbij Ihab het zelf zou kunnen gebruiken op een fijne manier voor PDF's en websites.
+
+<img width="1157" height="1081" alt="image" src="https://github.com/user-attachments/assets/f3cc0eb8-689d-4809-898f-bd888583374d" />
+
+## Final prototype
+
+https://github.com/user-attachments/assets/d55a33a1-0545-4092-92a4-04dca8976c42
 
 
 
-# Reflectie  
-study situation, ignore conventions, prioritise identity, add nonsense
-prioritise identity: Echt alleen maar gefocust op Ihab en geen aannames gedaan, elke keer getest. Zijn eigen woorden gebruikt zoals bij "quirky" samenvatting. Het prototype zo ingericht zoals hij aangaf het te willen hebben
+# Reflectie  - Exclusive design principles
+
+## Study situation
+In mijn ogen is study situation de kern van het hele vak, wat ik zeker heb toegepast. Ik heb de situatie van Ihab bestudeerd en onderzocht door elke test (zeker de eerste test zonder prototype) uit te voeren door middel van observaties en specifieke vragen stellen voor mijn situatie. Zo heb ik mijn idee elke week een beetje verfijnd om tot dit uiteindelijke resultaat te komen. Als eerst had ik een idee gepitched aan Ihab, wel op basis van de voorkeuren die Berend noemde aangezien Ihab niks specifieks had laten weten. Mijn idee om content te kunnen overslaan is van concept tot prototype ontwikkeld speciaal voor Ihab en wat hij fijn vind. 
+
+## Ignore conventions
+Ik vind ook dat je deze exclusive design principle eigenlijk standaard toepast. Ik ben gewoon het idee gaan uitwerken zonder rekening te houden met specifieke richtlijnen of conventies, natuurlijk heb ik wel rekening gehouden met de toegankelijkheids richtlijnen. Ik heb me puur gefocust op het praktische gedeelte en wat werkt voor Ihab. 
+
+## Prioritise identity
+Voor het prototype heb ik alleen maar gefocust op Ihab en geen aannames gedaan van wat hij wel of niet fijn vind, gewoon elke keer geitereerd. Het prototype is zo ingericht zoals hij aangaf het te willen hebben. Ook is zijn identiteit letterlijk terug te vinden in het woord 'quirky'. Ik had als voorstel het "niet serieuze samenvatting" voorgelegd hij vond het een leuk idee "een quirky samenvatting" zoals hij het noemde. Dat heb ik overgenomen en vervolgens erin verwerkt, met dat als titel voor de samenvatting. Tot slot had ik een screenreader only tekstje toegevoegd als soort introductie alleen voor Ihab.
+
+## Add nonsense
+Voor de test van week 3 heb ik zelf wat "nonsense" toegevoegd, in plaats van een serieuze samenvatting een onserieuze grappende samenvatting. Dit is juist ontoepasselijk bij een "serieus" document zoals het economisch plan en vond ik een onzinnige maar leuke toevoeging. Het was dan ook mooi om te horen dat Ihab het zelf ook een leuke toevoeging vond en is zo de "quirky samenvatting" tot stand gekomen. Er is altijd wat ruimte voor nonsense!
 
 add nonsense: Het is grotendeels een praktisch prototype maar voor de test van week 3 had ik zelf wat "nonsense" toegevoegd, in plaats van een serieuze samenvatting een onserieuze grappende samenvatting. Ik vond het leuk om te zien/horen dat Ihab het een leuke toevoeging vond. Zo zie je dat er altijd wat ruimte is voor nonsense.
 
