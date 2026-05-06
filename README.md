@@ -3,7 +3,7 @@
 # Week 1
 
 ## Ihab - de gebruiker waarvoor ik ontwikkel
-Ihab studeert economie en politicologie aan de UvA en is blind. Daarom gebruikt hij een screenreader om het web te navigeren. Het is aan mij de taak om een design te maken voor een relevant onderwerp met betrekking tot de screenreader speciaal voor Ihab.
+Ihab studeert economie en politicologie aan de UvA en is blind. Daarom gebruikt hij een screenreader om het web te navigeren, waarbij veel irritaties kunnen voorkomen. Het is aan mij de taak om een design te maken voor een relevant onderwerp met betrekking tot de screenreader speciaal voor Ihab, om een probleem op te lossen voor hem of een irritatie te verminderen.
 
 ## Eerste idee
 Voor mijn eerste idee wil ik gaan kijken naar het maken van een extensie om de voorkeuren van Ihab te ondersteunen, mogelijk een sneltoets library, mogelijk kunnen skippen naar de content die je zelf wilt. De voorkeuren baseer ik op de observaties die ik maak wanneer Ihab de sites doorgaat, dus daar ga ik achter komen. 
