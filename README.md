@@ -175,13 +175,26 @@ Stel dit project zou nog een aantal weken zijn, had ik zeker geprobeerd het echt
 
 <img width="1157" height="1081" alt="image" src="https://github.com/user-attachments/assets/f3cc0eb8-689d-4809-898f-bd888583374d" />
 
-## Final prototype
+# De opdracht
+De opdracht voor mij was om voor één specifieke gebruiker die het web op zijn of haar eigen unieke manier gebruikt. De persoon waar ik voor heb ontworpen is Ihab.
+
+Ihab studeert economie en politicologie aan de UvA en is blind. Daarom gebruikt hij een screenreader om het web te navigeren, waarbij veel irritaties kunnen voorkomen. Het is aan mij de taak om een design te maken voor een relevant onderwerp met betrekking tot de screenreader speciaal voor Ihab, om een probleem op te lossen voor hem en/of een irritatie te verminderen.
+
+# Het probleem wat ik heb opgelost voor Ihab
+Tijdens de eerste test had ik een voorstel voor een idee gedaan aan Ihab: zou het je handig lijken om voorafgaand op een pagina te kunnen bepalen welke content je wilt overslaan? - Ja, zeker met van die lange, saaie onderzoeken die hij moet doornemen voor zijn studie. Denk aan wetenschappelijke onderzoeken waar je eerst door onderzoeksmethodes en al dat soort onzin heen moet gaan die voor hem niet relevant zijn.
+
+Met dit in gedachte ben ik aan de slag gegaan en heb ik gedurende 3 tests geitereerd om bij de oplossing voor Ihab uit te komen. Een screenreader friendly extensie die ervoor zorgt dat Ihab voorafgaand aan een PDF of website een AI gegenereerde inhoudsopgave en een algemene samenvatting te horen krijgt. In de inhoudsopgave staan alle kopjes gebaseerd op hoe de content is ingedeeld en bij elk kopje krijgt Ihab een geschatte leestijd te zien om een idee te krijgen van de tijdsinname. Verder krijgt Ihab de mogelijkheid om met de screenreader er gelijk heen te gaan, de kopjes zijn tegelijkertijd links naar het desbetreffende content stukje op de site dus kan Ihab de focus daar starten. Op die manier kan Ihab dus ook de voorafgaande content overslaan. Tot slot is er een algemene samenvatting (op een serieuze of quirky manier) om Ihab een indruk te geven van de content of juist een overzicht zodat hij niet door een heel lang en in zijn eigen woorden, saai, onderzoek hoeft te gaan. 
+
+Kortom, met mijn applicatie kan Ihab gemakkelijk door grote stukken content navigeren en/of overslaan, wat handig is voor alledaags gebruik of tijdens het verrichten van onderzoek voor zijn studie. Ihab kan veel tijd besparen en kan zo efficiënter navigeren op het web.
+
+Ihab gaf aan tevreden te zijn met de oplossing en had niks meer aan te merken tijdens de laatste test :)
+
+## Final prototype - nagebootst met een pdf relevant voor zijn studie
 
 https://github.com/user-attachments/assets/d55a33a1-0545-4092-92a4-04dca8976c42
 
 
-
-# Reflectie  - Exclusive design principles
+# Reflectie - Exclusive design principles
 
 ## Study situation
 In mijn ogen is study situation de kern van het hele vak, wat ik zeker heb toegepast. Ik heb de situatie van Ihab bestudeerd en onderzocht door elke test (zeker de eerste test zonder prototype) uit te voeren door middel van observaties en specifieke vragen stellen voor mijn situatie. Zo heb ik mijn idee elke week een beetje verfijnd om tot dit uiteindelijke resultaat te komen. Als eerst had ik een idee gepitched aan Ihab, wel op basis van de voorkeuren die Berend noemde aangezien Ihab niks specifieks had laten weten. Mijn idee om content te kunnen overslaan is van concept tot prototype ontwikkeld speciaal voor Ihab en wat hij fijn vind. 
